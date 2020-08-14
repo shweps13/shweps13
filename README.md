@@ -23,6 +23,7 @@
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][#]
 [<img align="left" alt="Python" width="26px" src="https://user-images.githubusercontent.com/52670061/90198637-102e1380-dd87-11ea-80c4-e6f5cd1e4473.png" />][#]
 [<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][#]
+[<img align="left" alt="Redux" width="26px" src="https://user-images.githubusercontent.com/52670061/90199206-e4139200-dd88-11ea-9e6f-4328600c4ec0.png" />][#]
 [<img align="left" alt="Node.js" width="26px" src="https://user-images.githubusercontent.com/52670061/90198838-c0038100-dd87-11ea-9df1-af1a2dc319a0.png" />][#]
 [<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][#]
 [<img align="left" alt="PostgreSQL" width="26px" src="https://user-images.githubusercontent.com/52670061/90198726-5e431700-dd87-11ea-8839-95f5aaa765d1.png" />][#]
