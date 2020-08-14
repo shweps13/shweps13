@@ -36,6 +36,10 @@
 <br />
 <br />
 
+---
+
+<img align="left" alt="shweps13 Github Stats" src="https://github-readme-stats.vercel.app/api?username=shweps13&show_icons=true&count_private=true" />
+
 [#]: #
 [website]: https://siburov.com/
 [linkedin]: https://www.linkedin.com/in/siburov/
