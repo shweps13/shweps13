@@ -28,7 +28,7 @@
 [<img align="left" alt="PostgreSQL" width="26px" src="https://user-images.githubusercontent.com/52670061/90198726-5e431700-dd87-11ea-8839-95f5aaa765d1.png" />][#]
 [<img align="left" alt="MongoDB" width="26px" src="https://user-images.githubusercontent.com/52670061/90198797-9e09fe80-dd87-11ea-86d0-a09b7ac64231.png" />][#]
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][#]
-[<img align="left" alt="AWS" width="26px" src="https://user-images.githubusercontent.com/52670061/90198902-0658e000-dd88-11ea-90fb-3ef476d259ee.png" />][#]
+[<img align="left" alt="AWS" width="26px" src="https://user-images.githubusercontent.com/52670061/90199116-a9115e80-dd88-11ea-86bb-1587953a304d.png" />][#]
 
 
 
