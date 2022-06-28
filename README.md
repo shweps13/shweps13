@@ -1,4 +1,4 @@
-### Hi there, I'm Heorhii - aka [shweps13][website] 👋
+### Hi there, I'm Joe [Heorhii] - aka [shweps13][website] 👋
 
 ## I'm a Traveler, Developer, and Buckwheat lover!
 - 🦾 Software developer at Verbato!
