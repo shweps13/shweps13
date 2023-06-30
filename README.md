@@ -3,8 +3,7 @@
 ## I'm a Traveler, Developer, and Buckwheat lover!
 - 🦾 Software developer at Verbato!
 - 💻 I’m looking for new certifications and knowledge
-- 📔 2022-2023 Plans: I wanna start sharing my Back-End developing experience on Medium.com
-- 🛂 Fun fact: Once I crossed the world by hitchhiking
+- 🛂 Fun fact: I crossed the world by hitchhiking once
 
 ### Connect with me:
 
